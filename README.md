@@ -109,6 +109,7 @@ Importance:
 * Collaboration: Multiple developers can work on the same codebase simultaneously.
 * Backup: Maintains a history of changes, allowing rollbacks to previous versions.
 * Branching and Merging: Supports branching for feature development and merging back into the main codebase.
+
 Popular VCS:
 * Git: Distributed VCS, supports branching, merging, and collaboration (e.g., GitHub, GitLab).
 * Subversion (SVN): Centralized VCS, supports version tracking and project management.
