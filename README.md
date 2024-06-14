@@ -51,6 +51,7 @@ Agile Model:
 * Use Case: Ideal for projects with evolving requirements and where rapid delivery is crucial (Beck et al., 2001).
 
 Real world example: Agile Success at Boa Vista
+
 Boa Vista, a Brazilian financial solutions provider, successfully implemented Agile methodologies using the Kanban method. This transition led to improved work processes, enhanced cross-functional collaboration, and data-driven decision-making, highlighting the benefits of Agile in optimizing financial solutions (Thinkful, 2023).
 
 Requirements Engineering:
@@ -81,6 +82,7 @@ Benefits:
 * Parallel Development: Different teams can work on different modules simultaneously, speeding up the development process (Gamma et al., 1994).
 
 Real world case study: Tesla's Layered Architecture for Self-Driving Cars.
+
 Tesla employs a layered architecture for its self-driving cars, enabling various parts of the vehicle to be connected to a central control module. This modular approach allows the system to adapt to changes over time without needing a complete rewrite, demonstrating the benefits of modularity and scalability in software design (OpenClassrooms, 2023).
 
 Testing in Software Engineering:
